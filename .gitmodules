@@ -1,3 +1,6 @@
 [submodule "custom/tf2hud-fixes"]
 	path = custom/tf2hud-fixes
 	url = https://github.com/CriticalFlaw/tf2hud-fixes.git
+[submodule "custom/cleantf2plus"]
+	path = custom/cleantf2plus
+	url = https://github.com/Pyogenics/CleanTF2plus.git
